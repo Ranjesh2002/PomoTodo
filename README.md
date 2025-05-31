@@ -1,4 +1,5 @@
 # ⏱️ Pomotodo - Pomodoro + Todo App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d2fc1fe-83eb-4c28-8e4d-37f9b5fcb48c/deploy-status)](https://app.netlify.com/projects/pomotodox/deploys)
 
 Pomotodo is a productivity app that combines the focus-enhancing **Pomodoro Technique** with an intuitive **Todo List**. It helps you stay on track by breaking work into focused intervals, while organizing and managing your tasks seamlessly.
 
